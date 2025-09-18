@@ -1,4 +1,4 @@
-# Calculadora de Planos Emenet 
+# Calculadora de Planos  
 
 Uma calculadora em Python para cálculo de descontos proporcionais em planos de internet devido a dias sem conexão.
 
